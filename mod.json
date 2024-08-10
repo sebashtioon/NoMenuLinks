@@ -1,0 +1,14 @@
+{
+	"geode": "3.3.1",
+	"gd": {
+		"win": "2.206",
+		"android": "2.206",
+		"mac": "2.206",
+		"ios": "2.206"
+	},
+	"id": "sebashtioon.nomenulinks",
+	"name": "NoMenuLinks",
+	"version": "v1.0.0",
+	"developer": "sebashtioon",
+	"description": "This Mod removes Robtop's links from the Main Menu! Enjoy :)"
+}
